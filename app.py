@@ -18,7 +18,7 @@ class TestCalculator(unittest.TestcCase):
     self.assertEqual(subtract(30,10),10)
    
  def test_multiply(self):
-    self.assertEqual(multiply(30,10),10)
+    self.assertEqual(multiply(4,10),10)
 
 if__name__ == "__main__":
 
